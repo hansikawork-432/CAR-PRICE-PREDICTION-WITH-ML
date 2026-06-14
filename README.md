@@ -51,3 +51,6 @@ Avoided data leakage and manual processing clutter by grouping operations into p
 | **Coefficient of Determination ($R^2$ Score)** | **0.82775 (82.77%)** |
 
 ---
+
+##Dataset link 
+https://www.kaggle.com/datasets/raihansoniwala/quikr-cars
