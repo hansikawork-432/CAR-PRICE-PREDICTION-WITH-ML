@@ -10,7 +10,6 @@ An end-to-end Machine Learning pipeline developed in Python to predict the marke
 * **Language:** Python
 * **Data Engineering & EDA:** Pandas, NumPy, Matplotlib, Seaborn
 * **Machine Learning Framework:** Scikit-Learn
-* **Model Deployment Ready:** Pickle
 
 ---
 
