@@ -36,9 +36,6 @@ Avoided data leakage and manual processing clutter by grouping operations into p
 * Engineered an automated search script iterating over 1,000 distinct `train_test_split` partition seeds (`random_state`).
 * Isolated the absolute optimal split parameters (`random_state=661`) to optimize test generalization, elevating the final predictive accuracy metric to **~82.8%**.
 
-### 5. Model Serialization (Deployment Architecture)
-* Utilized `pickle` object persistence to write the entire unified workflow setup to file as `LinearRegressionModel.pkl`. 
-* This standalone artifact encapsulates learned regression coefficients alongside encoder vocabularies, ensuring predictable execution when served in low-latency runtime applications like Flask or Streamlit interfaces.
 
 ---
 
