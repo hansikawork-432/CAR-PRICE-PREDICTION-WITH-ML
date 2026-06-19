@@ -39,7 +39,7 @@ Avoided data leakage and manual processing clutter by grouping operations into p
 
 ---
 
-### "This project is for educational purposes only using public Kaggle data. It is not intended for any commercial use."
+### "This project is strictly for educational purposes only using public Kaggle data. It is not intended for any commercial use."
 
 ##  Model Evaluation Summary
 
